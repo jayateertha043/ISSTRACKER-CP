@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:admob_flutter/admob_flutter.dart';
 //remove admob from pubspec.yaml,then admob container and all admob related code in main.lib to test 
+//Also u need to change build.gradle add your own Google maps API key
+//In case you want fast setup try with your own admob or demo key 
+//See build.gradle files for things you need to change
 GoogleMapController mapController;
 MapType _currentMapType = MapType.hybrid;
 dynamic position;
