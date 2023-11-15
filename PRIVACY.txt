@@ -1,0 +1,43 @@
+
+Privacy Policy for ISS TRACKER App
+
+Effective Date: 11/15/2023
+
+1. Introduction
+
+This Privacy Policy outlines how ISS TRACKER, developed by Jayateertha Guruprasad ("we," "us," or "our"), collects, uses, and protects the information you provide while using the ISS TRACKER mobile application.
+
+2. Information We Collect
+
+ISS TRACKER does not collect or store any personal data from its users. The app relies on public APIs (Application Programming Interfaces) to provide real-time information about the International Space Station (ISS) location and related data. Additionally, if the app includes advertisements, it may use third-party ad networks, which may collect certain non-personal information for ad targeting purposes (e.g., device type, IP address).
+
+3. Use of Information
+
+ISS TRACKER: The app uses public APIs to provide real-time information about the International Space Station's location and other related details.
+
+Advertisements: If advertisements are included in the app, the third-party ad networks may use non-personal information for ad targeting purposes.
+
+4. Third-Party Services
+
+ISS TRACKER may use third-party services, including public APIs and ad networks, to provide its functionality. Users are encouraged to review the privacy policies of these third-party services to understand how they handle data.
+
+5. Security
+
+ISS TRACKER prioritizes the security of user information. As the app does not collect personal data (except for non-personal information by ad networks), there is minimal risk associated with data breaches. Users are advised to ensure they download the app from official and trusted sources to minimize security risks.
+
+6. Changes to this Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on the ISS TRACKER app. Users are encouraged to review this Privacy Policy periodically for any changes.
+
+7. Contact Information
+
+For questions or concerns about this Privacy Policy or the ISS TRACKER app, please contact:
+
+Jayateertha Guruprasad
+Email: jayateertha043@gmail.com
+
+8. Acceptance of Terms
+
+By using the ISS TRACKER app, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the app.
+
+Thank you for using ISS TRACKER!
